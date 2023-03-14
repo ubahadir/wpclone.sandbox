@@ -1,0 +1,38 @@
+{
+  "name": "whatsapp-clone",
+  "version": "1.0.0",
+  "description": "it's Just test  i get the code from clever programmer tutorial so it's not mine  :)",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@babel/core": "7.11.6",
+    "@firebase/app-types": "0.6.1",
+    "@material-ui/core": "4.11.0",
+    "@material-ui/icons": "4.9.1",
+    "@types/react": "16.9.49",
+    "babel-loader": "8.1.0",
+    "es6-promisify": "6.1.1",
+    "es6-symbol": "3.1.3",
+    "firebase": "7.20.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-router-dom": "5.2.0",
+    "react-scripts": "3.4.3",
+    "redux": "4.0.5"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
